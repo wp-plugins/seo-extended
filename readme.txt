@@ -1,5 +1,5 @@
 === SEO Extended ===
-Contributors: Faison
+Contributors: Faison, scottofford
 Tags: WordPress SEO, SEO for WordPress, bulk edit, bulk edit titles, bulk edit descriptions, mass edit, bulk seo, SEO by Yoast, WordPress SEO, Yoast, yeast seo, SEO, seo title, meta description, meta title, yoast addon, yoast plugin, joost seo
 Author: Orion Group
 Author URI: http://www.orionweb.net/
