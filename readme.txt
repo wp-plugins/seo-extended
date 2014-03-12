@@ -13,10 +13,10 @@ View and edit all Yoast SEO Titles on one page and Meta Descriptions on another.
 
 == Description ==
 
-=SEO Extended is now a part of WordPress SEO by Yoast!=
+= SEO Extended is now a part of WordPress SEO by Yoast! =
 At Joost de Valk's request, we merged SEO Extended into [WordPress SEO by Yoast](http://wordpress.org/plugins/wordpress-seo/), [read about it here](http://www.orionweb.net/2014/03/11/orion-group-contributes-to-wordpress-seo-by-yoast/). If you install version 1.5 or later, you will no longer need SEO Extended and should uninstall SEO Extended. We will still leave this plugin up in case you need to stick with an older version of WordPress SEO by Yoast, but any updates to the SEO Extended functionality will only happen in WordPress SEO.
 
-=Description=
+= Description =
 Increase your efficiency in managing SEO Titles and Meta Descriptions with SEO Extended. This plugin builds on [WordPress SEO by Yoast](http://wordpress.org/plugins/wordpress-seo/) by adding two pages: one where you can view and edit the SEO Titles of every Page, Post, and Custom Post Type on your site, and one where you can view and edit the Meta Descriptions of every Page, Post, and Custom Post Type on your site. 
 
 Without SEO Extended, you need to dig through every post to determine which ones have appropriate titles and descriptions and which ones need updating. This might not seem like a major issue if you've been keeping up on your onsite optimization efforts by creating custom-crafted title tags and meta descriptions on your site. This plugin comes in very handy when performing an SEO website audit or keyword research. 
